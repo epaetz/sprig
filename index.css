@@ -2,9 +2,12 @@ body {
   background-color: #FDF8F1;
   color: #30270E; 
   text-align: center;
+  font-family: Georgia;
 }
 
 div {
   border: solid 10px;
   border-color: #ADEDAF;
+  width: 300px;
+  text-align: center;
 }
